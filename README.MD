@@ -102,19 +102,12 @@ The repository provides functionality to generate various visualizations based o
 
 3. Occurrence over Time Plot:
    <div style="text-align: center;">
-     <img src="Vizualisations/plot_word_count_through_time.png" width="400px">
+     <img src="Vizualisations/plot_occurences.png" width="400px">
    </div>
    Generate a plot showing the occurrence of articles over time.
    This visualization helps to understand the distribution of articles across different time periods.
 
-4. Histogram of Most Frequent Words:
-   <div style="text-align: center;">
-     <img src="Vizualisations/plot_occurences.png" width="400px">
-   </div>
-   Generate a histogram of the most frequent words in the articles.
-   This visualization provides insights into the distribution of word frequencies.
-
-5. Distribution of Number of Words per Document:
+4. Distribution of Number of Words per Document:
    <div style="text-align: center;">
      <img src="Vizualisations/Distribution_Number_Words_Per_Document.png" width="400px">
    </div>
